@@ -1,51 +1,24 @@
-# Peteman's Digital Universe 🌌
+# ✨ Peteman | Code & Cosmos Explorer ✨
 
-> Exploring the intersections of code, mathematics, and the cosmos
+> **AI/ML Developer with a passion for the stars**
 
-## 👋 Hello, I'm Peteman
-
-I'm a passionate developer with expertise in AI/ML, web development, and a deep fascination with astronomy and mathematics. My work lives at the exciting intersection of computational power and scientific discovery.
-
-## 💻 Tech & Skills
-
+## 🛠️ Skills & Expertise
 ```
-AI/ML          ███████████░░   
-Web Dev        ████████████░   
-App Dev        █████████░░░░   
-Mathematics    ██████████░░░   
-Astronomy      ███████████░░   
+AI/ML          ███████████░░   85%
+Web Dev        ████████████░   90%
+App Dev        █████████░░░░   70%
+Mathematics    ██████████░░░   80%
+Astronomy      ███████████░░   85%
 ```
 
-## 🚀 What I'm Working On
+## 🚀 Creating & Exploring
+- Crafting intelligent systems through neural networks
+- Building elegant web & mobile experiences
+- Mapping the universe with computational tools
 
-### AI & Machine Learning Projects
-- Building predictive models and neural networks
-- Exploring applications of deep learning in scientific research
-- Creating algorithms that solve real-world problems
+## 🔗 Connect With Me
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/unicus_meus)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/antelopebydwlkn3azy/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/z_pateman/)
 
-### Web & App Development
-- Crafting intuitive user interfaces with modern frameworks
-- Developing responsive, accessible applications
-- Building tools that bridge technology and scientific discovery
-
-### Mathematical Explorations
-- Applying mathematical concepts to computational challenges
-- Exploring the connections between abstract mathematics and practical applications
-- Using mathematical models to better understand complex systems
-
-## 🔭 Astronomy Interests
-
-When I'm not coding, you'll find me stargazing or working on astronomy-related projects. I'm particularly interested in:
-- Computational astronomy
-- Astrophotography
-- Data visualization of astronomical phenomena
-
-## 📫 Connect With Me
-
-Feel free to reach out for collaborations or just to chat about code, math, or the mysteries of the universe!
-
-[X](https://x.com/unicus_meus)  • [Instagram](https://www.instagram.com/antelopebydwlkn3azy/) • [Reddit](https://www.instagram.com/antelopebydwlkn3azy/)
-
----
-
-> "The universe is written in the language of mathematics, and its characters are triangles, circles, and other geometric figures." — Galileo Galilei
+<div align="center"><i>Where code meets cosmos, innovation begins</i></div>
