@@ -1,8 +1,8 @@
-# Peter's Digital Universe 🌌
+# Peteman's Digital Universe 🌌
 
 > Exploring the intersections of code, mathematics, and the cosmos
 
-## 👋 Hello, I'm Peter
+## 👋 Hello, I'm Peteman
 
 I'm a passionate developer with expertise in AI/ML, web development, and a deep fascination with astronomy and mathematics. My work lives at the exciting intersection of computational power and scientific discovery.
 
