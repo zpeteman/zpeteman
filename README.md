@@ -44,7 +44,7 @@ When I'm not coding, you'll find me stargazing or working on astronomy-related p
 
 Feel free to reach out for collaborations or just to chat about code, math, or the mysteries of the universe!
 
-[LinkedIn] • [Twitter] • [Email]
+[X](https://x.com/unicus_meus)  • [Instagram](https://www.instagram.com/antelopebydwlkn3azy/) • [Reddit](https://www.instagram.com/antelopebydwlkn3azy/)
 
 ---
 
